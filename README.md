@@ -28,3 +28,10 @@ Captura2: pagina con filtro de lista
 # Andrea Agustina Castillo
 # Curso: Curso de Desarrollo en React JS
 # Año: 2025
+
+Bibliografia y recursos:
+https://www.youtube.com/watch?v=sjrK6RA65eQ
+https://react.dev/reference/react/useState
+https://react.dev/reference/react/useEffect
+https://react.dev/learn/reusing-logic-with-custom-hooks
+https://react.dev/learn/reusing-logic-with-custom-hooks
